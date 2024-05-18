@@ -1,5 +1,5 @@
-#PDF Reader Backend
-#Welcome to the PDF Reader Backend! This backend service provides functionality to upload PDF files, extract text from them, and answer questions based on the extracted text using the Gemini API.
+PDF Reader Backend
+Welcome to the PDF Reader Backend! This backend service provides functionality to upload PDF files, extract text from them, and answer questions based on the extracted text using the Gemini API.
 
 Installation
 Clone this repository to your local machine:
